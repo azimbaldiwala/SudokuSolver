@@ -72,7 +72,7 @@ def valid(board, num, pos):
     return True
 
 
-
+# Calling solve function recursively
 def solve(board):
     find = find_empty(board)
     if not find:

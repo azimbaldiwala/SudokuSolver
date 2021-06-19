@@ -94,15 +94,3 @@ def solve(board):
 
 solve(board)
 print_board(board)
-
-        
-
-                        
-    
-    
-
-
-
-
-
-    
